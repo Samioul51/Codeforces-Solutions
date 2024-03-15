@@ -4,7 +4,6 @@ Link: https://codeforces.com/contest/200/problem/B
 
 */
 
-
 #include<bits/stdc++.h>
 #include<iomanip>
 using namespace std;
